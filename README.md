@@ -5,5 +5,5 @@ Chrome extension which logs Webstats events to a custom panel on Developer Tools
 - Visit chrome://extensions/  
 - Toggle to "Developer Mode"  
 - Select "Load Unpacked"  
-- Navigate to the folder where have downloaded the extension  
-- Select the folder which contains the manifest file  
+- Navigate to the folder where have you downloaded the extension  
+- To install select the folder which contains the manifest file 
